@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridThemeAutoSwitch", "GridThemeAutoSwitch.csproj", "{9F5852B5-C4BB-47E9-817D-880D49A129E6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThemeAutoSwitch", "ThemeAutoSwitch.csproj", "{9F5852B5-C4BB-47E9-817D-880D49A129E6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

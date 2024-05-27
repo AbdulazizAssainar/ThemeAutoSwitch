@@ -26,7 +26,7 @@ namespace GridThemeAutoSwitch
 
         private void UpdateDataGridViewTheme(bool isLight)
         {
-            DataGridViewCellStyle.UpdateTheme(this, isLight);
+            Style.UpdateTheme(this, isLight);
         }
     }
 }

@@ -4,7 +4,7 @@ using System.Windows.Forms;
 
 namespace GridThemeAutoSwitch
 {
-    internal class DataGridViewCellStyle
+    internal class Style
     {
         public static void ApplyLightTheme(DataGridView dataGridView)
         {
